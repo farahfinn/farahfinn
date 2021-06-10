@@ -7,7 +7,6 @@ I'm currently learning about django for backend to serve API's and using react f
 I'm also interested in A.I and machine learning.
 
 ## **Languages and Tools:**
-
 <p>
     <img src = "https://user-images.githubusercontent.com/43724242/121515492-e882f880-c9f5-11eb-89c6-a43a029c116b.png" height = "30">
   <img src = "https://user-images.githubusercontent.com/43724242/121515512-ede04300-c9f5-11eb-8229-bb11e08976b3.png" height = "30">
