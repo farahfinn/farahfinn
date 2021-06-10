@@ -1,6 +1,6 @@
 <img src = "https://github.com/alansmathew/alansmathew/raw/master/lang.gif" width="15%">
 <br/>
-### Hello World, I'm Farah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello World, I'm Farah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="right">
 <br/>
 I'm an aspiring software developer. Currently I'm learning on my own using resources online and hopefully I'll be fluent 😉.
 I'm currently learning about django for backend to serve API's and using react for front-end web development.
