@@ -1,4 +1,5 @@
 <img src = "https://user-images.githubusercontent.com/43724242/121514073-47477280-c9f4-11eb-8f4a-20d0517e4b47.png" width="25px">
+<br/>
 ### Hello World, I'm Farah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br/>
 I'm an aspiring software developer. Currently I'm learning on my own using resources online and hopefully I'll be fluent 😉.
