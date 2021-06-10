@@ -1,4 +1,12 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/43724242/121514073-47477280-c9f4-11eb-8f4a-20d0517e4b47.png)
+### Hello World, I'm Farah ![image](https://user-images.githubusercontent.com/43724242/121514400-a60cec00-c9f4-11eb-91d7-265fd00b0be5.png). 
+I'm an aspiring software developer. Currently I'm learning on my own using resources online and hopefully I'll be fluent 😉.
+I'm currently learning about django for backend to serve API's and using react for front-end web development.
+I'm also interested in A.I and machine learning.
+
+##Languages and Tools:
+![image](https://user-images.githubusercontent.com/43724242/121515257-aa85d480-c9f5-11eb-9601-65e9a1119442.png)
+![image](https://user-images.githubusercontent.com/43724242/121515171-8f1ac980-c9f5-11eb-9273-f52fc5f1447f.png)
 
 <!--
 **farahfinn/farahfinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
