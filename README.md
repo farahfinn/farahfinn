@@ -6,7 +6,7 @@ I'm an aspiring software developer. Currently I'm learning on my own using resou
 I'm currently learning about django for backend to serve API's and using react for front-end web development.
 I'm also interested in A.I and machine learning.
 
-##**Languages and Tools:** :
+## **Languages and Tools:**
 
 <p>
     <img src = "https://user-images.githubusercontent.com/43724242/121515492-e882f880-c9f5-11eb-89c6-a43a029c116b.png" height = "30">
