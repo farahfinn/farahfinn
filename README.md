@@ -1,4 +1,4 @@
-<img src = "https://gfycat.com/calmclearcutiaerismetalmark" width="25px">
+<img src = "https://github.com/alansmathew/alansmathew/raw/master/lang.gif" width="15%">
 <br/>
 ### Hello World, I'm Farah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br/>
